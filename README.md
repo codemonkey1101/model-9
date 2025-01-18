@@ -1,2 +1,2 @@
-# model-9
+# module-9
 Model Selection and Regularization
