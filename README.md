@@ -12,11 +12,8 @@ Live Session Notes:
 - Review Scikit-Learn's "Permutation feature importance API" for determining if a feature has a higher impact on a dataset.
 
 ## Notes
-Pipe.get_params() gets the params used in a model defined in a pipe.
+- Pipe.get_params() gets the params used in a model defined in a pipe.
 
-Need to review using SciKit-Learns GridSearchCV with Pipe.get_params().  This allows a model to get excersised on the same dataset using various configuration parameters.
+- Use Pandas help function: help(GridSearchCV) to get documentation along with GridSearchCV.cv_results_ and GridSearchCV.best_score_ for getting the results produced by the model being tested.
 
-Use Pandas help function: help(GridSearchCV) to get documentation.
-along with GridSearchCV.cv_results_ and GridSearchCV.best_score_ for getting the results produced by the model being tested.
-
-Example using TransformedTargetRegressor and GridSearchCV can be found in [colab_activity9_1-Sequential_Feature_Selection.ipynb](module-9/edit/main/colab_activity9_1-Sequential_Feature_Selection.ipynb)
+- Example using TransformedTargetRegressor and GridSearchCV can be found in [colab_activity9_1-Sequential_Feature_Selection.ipynb](module-9/edit/main/colab_activity9_1-Sequential_Feature_Selection.ipynb)
