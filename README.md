@@ -30,8 +30,10 @@ Regularization involves techniques that are used to optimize machine learning mo
 - Review TransformedTargetRegressor
 
 ### For further study
-- Look at what quantile transformation is when you require a normalized distribution after the transformation has been applied.
-- Review Scikit-Learn's "Permutation feature importance API" for determining when features have a high impact when creating a modeling using a specific dataset.
+- Look at what quantile transformation is when you require a normalized distribution after the transformation has been applied.  See the following links:
+  - quantile_tranform : https://scikit-learn.org/1.5/modules/generated/sklearn.preprocessing.quantile_transform.html
+  - QuantileTranformer : https://scikit-learn.org/1.5/modules/generated/sklearn.preprocessing.QuantileTransformer.html#sklearn.preprocessing.QuantileTransformer
+- Review Scikit-Learn's "Permutation feature importance API" for determining when features have a high impact when creating a modeling using a specific dataset.  See link: https://scikit-learn.org/1.5/modules/permutation_importance.html
 - For an understanding of how Lasso Reguarization works, do a Google search using the text string "normball".
 
 ### Notes
