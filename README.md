@@ -27,7 +27,6 @@ Regularization involves techniques that are used to optimize machine learning mo
 ## Live Session Notes:
 
 ### Office Hour with Savio Saldanha:
-- Review StandardScaler with scikit-learn
 - Review TransformedTargetRegressor
 
 ### For further study
