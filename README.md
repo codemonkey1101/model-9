@@ -48,3 +48,10 @@ Regularization involves techniques that are used to optimize machine learning mo
 
 ## Reference Guide:  
 https://classroom.emeritus.org/courses/9464/pages/module-9-transcripts-and-quick-reference-guide?module_item_id=2090387
+
+##  Additional Resources, Further Reading, Bibliography, and More to Explore
+- Brownlee, J. “A Gentle Introduction to k-fold Cross-Validation.” Machine Learning Mastery. Last modified October 4, 2023. https://machinelearningmastery.com/k-fold-cross-validation/Links to an external site.
+- “ML | Ridge Regressor Using Sklearn.” Last modified October 20, 2021. https://www.geeksforgeeks.org/ml-ridge-regressor-using-sklearn/Links to an external site.
+- “What Is LASSO Regression?” Last modified May 15, 2024. https://www.geeksforgeeks.org/what-is-lasso-regression/Links to an external site.
+- Zach Bobbitt. November 11, 2020. “Ridge Regression Explained, Step by Step.” Statology. https://www.statology.org/ridge-regression-in-r/ Links to an external site. 
+- Scikit-Learn. “GridSearchCV.” Accessed June 27, 2024. https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
